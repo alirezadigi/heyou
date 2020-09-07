@@ -11,7 +11,7 @@ python3 api.py
 
 ```
 ## TODO list!
-- [ ] Adding requirements.txt to Project !
+- [x] Adding requirements.txt to Project !
 - [ ] Adding URLs to Site (Near Api) !
 - [ ] Adding Textbox to Site! 
 - [ ] Adding template to Site! 
