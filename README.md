@@ -10,7 +10,7 @@ pip3 install flask
 python3 api.py
 
 ```
-# TODO list!
+## TODO list!
 - [ ] Adding requirements.txt to Project !
 - [ ] Adding URLs to Site (Near Api) !
 - [ ] Adding Textbox to Site! 
